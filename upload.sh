@@ -4,7 +4,7 @@ time=$(date +%H.%M.%S)
 who=$(whoami)
 
 os=$(inxi -S | awk '{for(i=1;i<=NF;i++)if($i=="Distro:")print $(i+1)}')
-log="Last push: $date by $who from $os (free-systemd) at $time"
+log="Last push: $date by $who from $os at $time"
 
 echo $log >> log.txt
 
