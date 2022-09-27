@@ -9,7 +9,7 @@
 
 ## IO + Aritmatika
 
-1. Diberikan beberapa buah user input yang menyatakan titik awal (x,y), titik target (x,y), dan minimal iterasi untuk mendekati titik tersebut. Carilah berapa besar kecepatan_x dan kecepatan_y nya untuk mendekati target dengan minimal iterasi yang diberikan. Urutan input adalah x y awal lalu x y target lalu minimal iterasi. Contoh input `0 0 10 10 3` maka vel_x = 3 dan vel_y = 3. Contoh lagi ketika input '6 9 69 6969 10' maka vel_x = 6 dan vel_y = 696.
+1. Diberikan beberapa buah user input yang menyatakan titik awal (x,y), titik target (x,y), dan minimal iterasi untuk mendekati titik tersebut. Carilah berapa besar kecepatan_x dan kecepatan_y nya untuk mendekati target dengan minimal iterasi yang diberikan. Urutan input adalah x y awal lalu x y target lalu minimal iterasi. Contoh input `0 0 10 10 3` maka vel_x = 3 dan vel_y = 3. Contoh lagi ketika input `6 9 69 6969 10` maka vel_x = 6 dan vel_y = 696.
 2. Bagaimana cara membuat user input menjadi double? (asdasd) atau Triple? (asdasdasd) atau Quadruple? (asdasdasdasd) (Konstruksi string) Bagaimana cara print dengan normal? Bagaimana cara print dengan indikasi error? (Ketika kita run program tanpa error message maka print tadi tidak akan ter-print)
 3. Ada 4 data yang bisa bernilai 0 atau 1, bagaimana cara menggabungkan 4 data tersebut kedalam satu variabel? (1 byte integer)
 4. Ada 6 data yang bisa bernilai `0 <= x <= 5`, bagaimana cara menggabungkan data tersebut menjadi sebuah 2 bytes integer?
