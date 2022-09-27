@@ -50,3 +50,7 @@ FLAG_4 0x10
 2. Diberikan sebuah variabel char array dengan panjang 6 bytes (`char buffer[6]`), saya memiliki 3 data yang berbeda (masing-masing 1 byte) dan juga memiliki sebuah header 3 bytes bertuliskan 'its'. Bagaimana caranya menyatukan data tersebut kedalam char buffer yang hanya berkapasitas 6 bytes?
 3. User input sebuah string dengan judul lagu yang paling disukai. Buat sebuah infinity loop yang nantinya akan membuat user input berupa posisi dan size yang akan digunakan untuk membuat string baru. Contoh lagu favorit adalah: `antara_ada_dan_tiada`, posisi = 3 dan size = 4 maka nanti akan nge-print `ara_` lalu input lagi posisi = 7 dan size = 2 maka keluar `ad` dst.. sampai diberi sinyal `SIGINT`
 4. Apa sebenarnya string itu?
+
+## Link penting
+http://www.it.uom.gr/teaching/c_optimization/tutorial.html  
+https://icps.u-strasbg.fr/~bastoul/local_copies/lee.html  
