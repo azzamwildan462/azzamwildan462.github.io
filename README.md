@@ -22,8 +22,9 @@
 
 ## Perulangan
 
-1. Buat sebuah perulangan yang nge-print '0 100 200 44 144 244 88 188 32 132 232 76 ' tanpa pake `if statement` atau percabangan lainnya
-2. Saya punya robot dengan posisi awal (69,69) buatlah sebuah infinity loop untuk membuatnya bergerak mendekati titik target yang berupa input user. Program berhenti ketika input user == input sebelumnya. **Fungsi yang boleh digunakan adalah scanf, printf, dan fflush dari library stdio.h dan sqrt dari library math.h**. Program hanya ada di dalam while(1). Saya beri clue untuk menggunakan `static variable`
+1. Buat sebuah perulangan yang nge-print '0 100 200 44 144 244 88 188 32 132 232 76 ' tanpa pake `if statement` atau percabangan lainnya   
+2. Convert sebuah unsigned int 8 bit angka menjadi bentuk binarynya dengan tambahan custom berapa bit untuk ditampilkan (maksimal 8 bit). Input ada 2 berupa angka (0 sampai 255) dan berapa banyak bit (1 sampai 8). Contoh `16 6` maka akan jadi `010000`. Contoh `123 4` maka akan jadi `1011`.   
+3. Saya punya robot dengan posisi awal (69,69) buatlah sebuah infinity loop untuk membuatnya bergerak mendekati titik target yang berupa input user. Program berhenti ketika input user == input sebelumnya. **Fungsi yang boleh digunakan adalah scanf, printf, dan fflush dari library stdio.h dan sqrt dari library math.h**. Program hanya ada di dalam while(1). Saya beri clue untuk menggunakan `static variable`
 
 ```
 int main(){
@@ -53,4 +54,6 @@ FLAG_4 0x10
 
 ## Link penting
 http://www.it.uom.gr/teaching/c_optimization/tutorial.html  
-https://icps.u-strasbg.fr/~bastoul/local_copies/lee.html  
+https://icps.u-strasbg.fr/~bastoul/local_copies/lee.html    
+
+`Kalo bingung, tanya aja`
