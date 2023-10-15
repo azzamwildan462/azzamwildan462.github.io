@@ -4,11 +4,10 @@
 
 1. Sholat 5 waktu
 2. Gk bisa ngerjain berarti anak ITB, kalo bisa ngerjain baru bisa dibilang anak ITS
-3. Semua soal-soal yang saya berikan adalah soal-soal yang penyelesainnya memang benar-benar digunakan di dunia pekerjaan.
 
 ## P1
 
-1. Sebutkan toko-toko elektronik di surabaya dan daerah mana tokonya berada dimana
+1. Sebutkan toko-toko elektronik di surabaya dan daerah mana tokonya berada
 2. Apa itu floating input?
 3. Bagaimana cara menyelesaikan ketika rangkaian kita terdapat floating input?
 
@@ -20,11 +19,11 @@
 ## P3
 
 1. ... juga :v
-2. .... juga
+2. .... juga :v :v
 
 ## P4
 
-1. ... juga :v
+1. ... juga :v :V :V
 2. titik dua ve :v
 
 ## P5
@@ -33,7 +32,6 @@
 
 ## Link penting
 
-http://www.it.uom.gr/teaching/c_optimization/tutorial.html  
-https://icps.u-strasbg.fr/~bastoul/local_copies/lee.html
+https://www.youtube.com/@BenEater/featured
 
 `Kalo bingung, tanya aja`
