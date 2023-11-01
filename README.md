@@ -4,6 +4,7 @@
 
 1. Sholat 5 waktu
 2. Gk bisa ngerjain berarti anak ITB, kalo bisa ngerjain baru bisa dibilang anak ITS
+3. Anggaplah teman sekelompok kalian semuanya sampah
 
 ## P1
 
@@ -13,13 +14,20 @@
 
 ## P2
 
-1. ...
-2. ... juga
+Input source: USB atau baterai, saya rekomendasi USB saja di Berkat banyak  
+Logic unit: 1 buah IC 7400  
+Output debug: 4 Led saja, atau sediakan 4 tempat untuk dicek pakai avometer  
+Board: PCB dot (soldered) atau Breadboard saja gk papa
+
+Truth Table:  
+![Truth_table](p2_rdig.jpg)
+
+1. Buatkan saya rangkaiannya (bentuk pake IC langsung) (kalo bisa di hardware langsung. kalo gabisa, simulasi di proteus atau LTSpice)
 
 ## P3
 
-1. ... juga :v
-2. .... juga :v :v
+1. ...
+2. .... juga :v
 
 ## P4
 
