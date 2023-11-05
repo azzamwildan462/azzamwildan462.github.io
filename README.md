@@ -26,13 +26,21 @@ Truth Table:
 
 ## P3
 
-1. ...
-2. .... juga :v
+Saya punya data sebagai berikut:
+
+- uint8_t flag = 0b01001101
+- uint8_t enc_cnt = 124
+- int8_t ret_stats = -4
+
+1. Simpan data tersebut pada 256 x 8-bit EPROM (Erasable Programmable Read-Only Memory) menggunakan GAL 22v10d beserta Wiring Schematics nya (+IO) dan juga memory map nya. (nanti dibuat sampe jadi .jed saja)
+2. Bagaimana cara saya mengakses data tersebut?
+
+Untuk IO nya terserah mau pake apa, mau pake toggle, led, tombol, atau mikrokontroller, atau apalah terserah
 
 ## P4
 
-1. ... juga :v :V :V
-2. titik dua ve :v
+1. ...
+2. ... juga :v
 
 ## P5
 
