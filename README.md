@@ -39,12 +39,13 @@ Untuk IO nya terserah mau pake apa, mau pake toggle, led, tombol, atau mikrokont
 
 ## P4
 
-1. ...
-2. ... juga :v
+1. Sebutkan ada berapa clock trigger ?
+2. Buatkan saya rangkain toggle led (kalo nggak tau apa maksudnya, tanya aja) dengan trigger rising edge
+3. Lakukan simulasi di circuitverse aja
 
 ## P5
 
-1. Buat rangkaian UART Transmitter (8N1) menggunakan shift register (simulasi saja)
+1. Buat rangkaian UART Transmitter (8N1) menggunakan shift register (simulasi saja di circuitverse)
 
 ## Link penting
 
