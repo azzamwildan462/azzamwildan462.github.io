@@ -3,12 +3,30 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Blank Doc</title>
+    <title>Portofolio</title>
 
     <link rel="stylesheet" href="assets/css/index.css" />
     <script src="assets/js/index.js"></script>
+    <style>
+      #container {
+        position: relative;
+        width: 400px;
+        height: 200px;
+      }
+
+      canvas {
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
+    </style>
   </head>
   <body>
-    <canvas id="fog"></canvas>
+    <div id="container">
+      <canvas id="main"></canvas>
+      <canvas id="fog"></canvas>
+      <canvas id="fx"></canvas>
+      <canvas id="info"></canvas>
+    </div>
   </body>
 </html>

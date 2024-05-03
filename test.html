@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Canvas with Overlay</title>
+    <!-- <style>
+      #container {
+        position: relative;
+        width: 400px;
+        height: 200px;
+      }
+
+      canvas {
+        position: absolute;
+        top: 0;
+        left: 0;
+        border: 1px solid black;
+      }
+    </style> -->
+    <link rel="stylesheet" href="assets/css/index.css" />
+  </head>
+  <body>
+    <div id="container">
+      <canvas id="baseCanvas" width="400" height="200"></canvas>
+      <canvas id="overlayCanvas" width="400" height="200"></canvas>
+    </div>
+
+    <script>
+      // Get references to the canvases
+      var baseCanvas = document.getElementById("baseCanvas");
+      var overlayCanvas = document.getElementById("overlayCanvas");
+
+      // Get the 2D contexts for both canvases
+      var baseCtx = baseCanvas.getContext("2d");
+      var overlayCtx = overlayCanvas.getContext("2d");
+
+      // Draw something on the base canvas
+      baseCtx.fillStyle = "lightblue";
+      baseCtx.fillRect(50, 50, 100, 100);
+      baseCtx.fillStyle = "black";
+      baseCtx.font = "20px Arial";
+      baseCtx.fillText("Base Canvas", 60, 120);
+
+      // Draw something on the overlay canvas
+      overlayCtx.fillStyle = "rgba(255, 0, 0, 0.5)"; // Semi-transparent red
+      overlayCtx.fillRect(100, 50, 100, 100);
+      overlayCtx.fillStyle = "black";
+      overlayCtx.font = "20px Arial";
+      overlayCtx.fillText("Overlay Canvas", 160, 120);
+    </script>
+  </body>
+</html>
